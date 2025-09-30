@@ -51,7 +51,7 @@
 .. _BERT_score: https://github.com/Tiiiger/bert_score/blob/master/bert_score/utils.py
 .. _Bert_score Evaluating Text Generation: https://arxiv.org/abs/1904.09675
 .. _BLEU score: https://en.wikipedia.org/wiki/BLEU
-.. _BLEU: http://www.aclweb.org/anthology/P02-1040
+.. _BLEU: https://www.semanticscholar.org/paper/Bleu%3A-a-Method-for-Automatic-Evaluation-of-Machine-Papineni-Roukos/d7da009f457917aa381619facfa5ffae9329a6e9
 .. _SacreBLEU: https://github.com/mjpost/sacrebleu
 .. _SacreBleu_ter: https://github.com/mjpost/sacrebleu/blob/master/sacrebleu/metrics/ter.py
 .. _Machine Translation Evolution: https://aclanthology.org/P04-1077
@@ -81,7 +81,7 @@
 .. _chrF++ score: https://aclanthology.org/W17-4770
 .. _TER: https://aclanthology.org/2006.amta-papers.25
 .. _ExtendedEditDistance: https://aclanthology.org/W19-5359
-.. _MultiScaleSSIM: https://ieeexplore.ieee.org/document/1292216
+.. _MultiScaleSSIM: https://ieeexplore.ieee.org/abstract/document/1292216
 .. _UniversalImageQualityIndex: https://ieeexplore.ieee.org/abstract/document/995823
 .. _SpectralDistortionIndex: https://www.semanticscholar.org/paper/Multispectral-and-panchromatic-data-fusion-without-Alparone-Aiazzi/b6db12e3785326577cb95fd743fecbf5bc66c7c9
 .. _SpatialDistortionIndex: https://www.semanticscholar.org/paper/Multispectral-and-panchromatic-data-fusion-without-Alparone-Aiazzi/b6db12e3785326577cb95fd743fecbf5bc66c7c9
@@ -129,7 +129,7 @@
 .. _Permutation invariant training: https://arxiv.org/abs/1607.00325
 .. _ranking ref1: https://link.springer.com/chapter/10.1007/978-0-387-09823-4_34
 .. _Spectral Distortion Index: https://www.semanticscholar.org/paper/Multispectral-and-panchromatic-data-fusion-without-Alparone-Aiazzi/b6db12e3785326577cb95fd743fecbf5bc66c7c9
-.. _Error relative global dimensionless synthesis: https://minesparis-psl.hal.science/hal-00464703/document
+.. _Error relative global dimensionless synthesis: https://minesparis-psl.hal.science/hal-00464703
 .. _fid ref1: https://arxiv.org/abs/1512.00567
 .. _fid ref2: https://arxiv.org/abs/1706.08500
 .. _inception ref1: https://arxiv.org/abs/1606.03498
@@ -143,12 +143,13 @@
 .. _Peak Signal to Noise Ratio With Blocked Effect: https://ieeexplore.ieee.org/abstract/document/5535179
 .. _Minkowski Distance: https://en.wikipedia.org/wiki/Minkowski_distance
 .. _Demographic parity: http://www.fairmlbook.org/
-.. _Equal opportunity: https://proceedings.neurips.cc/paper/2016/hash/9d2682367c3935defcb1f9e247a97c0d-Abstract.html
+.. _Equal opportunity: https://arxiv.org/abs/1610.02413
 .. _Seamless Scene Segmentation paper: https://arxiv.org/abs/1905.01220
 .. _Fleiss kappa: https://en.wikipedia.org/wiki/Fleiss%27_kappa
 .. _VIF: https://ieeexplore.ieee.org/abstract/document/1576816
 .. _CLIP-IQA: https://arxiv.org/abs/2207.12396
 .. _CLIP: https://arxiv.org/abs/2103.00020
+.. _LVE: https://openaccess.thecvf.com/content/ICCV2021/papers/Richard_MeshTalk_3D_Face_Animation_From_Speech_Using_Cross-Modality_Disentanglement_ICCV_2021_paper.pdf
 .. _PPL : https://arxiv.org/abs/1812.04948
 .. _CIOU: https://arxiv.org/abs/2005.03572
 .. _DIOU: https://arxiv.org/abs/1911.08287v1
@@ -162,7 +163,7 @@
 .. _fork of pycocotools: https://github.com/ppwwyyxx/cocoapi
 .. _Adjusted Rand Score: https://en.wikipedia.org/wiki/Rand_index#Adjusted_Rand_index
 .. _Dunn Index: https://en.wikipedia.org/wiki/Dunn_index
-.. _V-Measure Score: https://www.aclweb.org/anthology/D07-1043
+.. _V-Measure Score: https://www.semanticscholar.org/paper/V-Measure%3A-A-Conditional-Entropy-Based-External-Rosenberg-Hirschberg/5421dbcb7e14766eb3d951910ae8d7892d735a01
 .. _Homogeneity Score: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.homogeneity_score.html
 .. _Completeness Score: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.completeness_score.html
 .. _Davies-Bouldin Score: https://en.wikipedia.org/wiki/Davies%E2%80%93Bouldin_index

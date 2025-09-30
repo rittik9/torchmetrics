@@ -55,6 +55,12 @@ Install using conda
 conda install -c conda-forge torchmetrics
 ```
 
+Install using uv
+
+```bash
+uv add torchmetrics
+```
+
 Pip from source
 
 ```bash
@@ -285,7 +291,7 @@ covers the following domains:
 - Detection
 - Information Retrieval
 - Image
-- Multimodal (Image-Text)
+- Multimodal (Image-Text-3D Talking Heads)
 - Nominal
 - Regression
 - Segmentation
